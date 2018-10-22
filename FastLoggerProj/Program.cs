@@ -3,6 +3,9 @@ using KWClubb.FastLogger;
 
 namespace FastLoggerProj
 {
+   /// <summary>
+   /// This is a test harness for FastLogger
+   /// </summary>
    class Program
    {
       static void Main(string[] args)
